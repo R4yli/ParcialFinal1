@@ -1,0 +1,145 @@
+--------------------------------------------------------
+Aeropuerto: Barcelona - El Prat (BCN01)
+  Compañía: Iberia
+
+  SALIDAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  BCN01      MAD01        150         01:00                    -
+
+  ENTRADAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  MAD01      BCN01        150         01:00                    -
+  MAD01      BCN01        150         01:00      1/2009/22 20:30
+  ------------------------------------------------------
+  Compañía: British Air
+
+  SALIDAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  BCN01      LON01        180         01:05                    -
+  BCN01      LON01        180         01:00      2/2009/22 20:30
+
+  ENTRADAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  LON01      BCN01        180         01:05                    -
+  LON01      BCN01        180         01:00      3/2009/05 15:19
+  LON01      BCN01        180         01:00      3/2009/05 15:19
+  ------------------------------------------------------
+  Compañía: Ryan Air
+
+  SALIDAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  BCN01      LON01        120         01:10                    -
+  BCN01      LON01        120         01:00      1/2009/25 15:18
+
+  ENTRADAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  LON01      BCN01        120         01:10                    -
+  ------------------------------------------------------
+  Compañía: Spanair
+
+  SALIDAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  BCN01      MAD01        150         01:00      1/2009/15 20:30
+  BCN01      MAD01        150         01:00      1/2009/15 20:30
+
+  ------------------------------------------------------
+--------------------------------------------------------
+
+--------------------------------------------------------
+Aeropuerto: Madrid - Barajas (MAD01)
+  Compañía: Iberia
+
+  SALIDAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  MAD01      BCN01        150         01:00                    -
+  MAD01      BCN01        150         01:00      1/2009/22 20:30
+
+  ENTRADAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  BCN01      MAD01        150         01:00                    -
+  ------------------------------------------------------
+  Compañía: British Air
+
+  ENTRADAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  SPA01      MAD01        200         07:00                    -
+  ------------------------------------------------------
+  Compañía: Spanair
+
+  ENTRADAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  BCN01      MAD01        150         01:00      1/2009/15 20:30
+  BCN01      MAD01        150         01:00      1/2009/15 20:30
+  ------------------------------------------------------
+--------------------------------------------------------
+
+--------------------------------------------------------
+Aeropuerto: Paris � Orly (PAR01)
+El aeropuerto no tiene vuelos registrados...
+--------------------------------------------------------
+
+--------------------------------------------------------
+Aeropuerto: London - Heathrow (LON01)
+  Compañía: British Air
+
+  SALIDAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  LON01      BCN01        180         01:05                    -
+  LON01      SPA01        200         07:00                    -
+  LON01      BCN01        180         01:00      3/2009/05 15:19
+  LON01      BCN01        180         01:00      3/2009/05 15:19
+
+  ENTRADAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  BCN01      LON01        180         01:05                    -
+  BCN01      LON01        180         01:00      2/2009/22 20:30
+  ------------------------------------------------------
+  Compañía: Ryan Air
+
+  SALIDAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  LON01      BCN01        120         01:10                    -
+
+  ENTRADAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  BCN01      LON01        120         01:10                    -
+  BCN01      LON01        120         01:00      1/2009/25 15:18
+  ------------------------------------------------------
+--------------------------------------------------------
+
+--------------------------------------------------------
+Aeropuerto: Sao Paulo - Guarulhos (SPA01)
+  Compañía: British Air
+
+  SALIDAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  SPA01      MAD01        200         07:00                    -
+
+  ENTRADAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  LON01      SPA01        200         07:00                    -
+  ------------------------------------------------------
+  Compañía: Ryan Air
+
+  SALIDAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  SPA01      SPA01        120         01:00      1/2009/31 22:20
+
+  ENTRADAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  SPA01      SPA01        120         01:00      1/2009/31 22:20
+  SIB01      SPA01        120         01:00      1/2009/31 22:20
+  ------------------------------------------------------
+--------------------------------------------------------
+
+--------------------------------------------------------
+Aeropuerto: SIBUNDOY - Guarulhos (SIB01)
+  Compañía: Ryan Air
+
+  SALIDAS:
+  Origen    Destino     Plazas      Duración                Fecha
+  SIB01      SPA01        120         01:00      1/2009/31 22:20
+
+  ------------------------------------------------------
+--------------------------------------------------------
+

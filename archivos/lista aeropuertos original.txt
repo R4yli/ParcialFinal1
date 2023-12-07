@@ -1,0 +1,22 @@
+Código  	nombre 	 poblacion 	 País	 GMT 
+------------------------------------------------------------------------
+BCN01	Barcelona - El Prat	Espa�a	Barcelona	1
+
+
+MAD01	Madrid - Barajas	Espa�a	Madrid	1
+
+
+PAR01	Paris � Orly	Francia	Paris	1
+
+
+LON01	London - Heathrow	Gran Breta�a	Londres	0
+
+
+SPA01	Sao Paulo - Guarulhos	Brasil	Sao Paulo	-3.
+
+
+SIB01	SIBUNDOY - Guarulhos	colombia	putumayo	-3.
+
+
+------------------------------------------------------------------------
+Numero de Aeropuertos: 6
